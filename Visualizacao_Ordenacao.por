@@ -122,7 +122,7 @@ programa
 	{
 		g.iniciar_modo_grafico(verdadeiro)
 		g.definir_dimensoes_janela(largura_janela, altura_janela)
-		g.definir_titulo_janela("Heap Sort")
+		g.definir_titulo_janela("Algoritmos de Ordenação")
 	}
 
 	funcao melhor_caso(inteiro &v[]) // Cria vetor ordenado em ordem crescente
